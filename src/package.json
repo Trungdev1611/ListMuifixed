@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.10.9",
+    "@mui/material": "latest",
+    "material-icons": "1.12.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-window": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.13/docs/data/material/components/lists/VirtualizedList.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
